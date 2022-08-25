@@ -1,0 +1,12 @@
+{
+    "baseUrl":  "https://www.olympia.casino",
+    "retries": {
+        "runMode": 2,
+        "openMode": 0
+      },
+    "requestTimeout": 2000,
+    "defaultCommandTimeout": 13000,
+    "pageLoadTimeout": 20000,
+    "failOnStatusCode": false,
+    "responseTimeout": 20000
+}
